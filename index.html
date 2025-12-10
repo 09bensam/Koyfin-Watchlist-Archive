@@ -118,20 +118,19 @@
     </div>
 
     <script>
+        // Hardcoded repo info for reliable API calls
+        const GITHUB_OWNER = '09bensam';
+        const GITHUB_REPO = 'Koyfin-Watchlist-Archive';
+        
         async function loadWatchlists() {
             const grid = document.getElementById('watchlistGrid');
-            const baseUrl = window.location.href.replace(/\/[^\/]*$/, '');
             
             try {
-                // Fetch the watchlists directory listing from GitHub API
-                const repoPath = window.location.pathname.replace(/^\//, '').replace(/\/$/, '');
-                const [owner, repo] = repoPath.split('/');
-                
-                const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/watchlists`;
+                const apiUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/watchlists`;
                 const response = await fetch(apiUrl);
                 
                 if (!response.ok) {
-                    throw new Error('Could not fetch watchlist directory');
+                    throw new Error(`API returned ${response.status}`);
                 }
                 
                 const files = await response.json();
@@ -187,7 +186,7 @@
                 
             } catch (error) {
                 console.error('Error loading watchlists:', error);
-                grid.innerHTML = `<p>Error loading watchlists. <a href="watchlists/">Browse manually</a></p>`;
+                grid.innerHTML = `<p>Error loading watchlists. <a href="https://github.com/${GITHUB_OWNER}/${GITHUB_REPO}/tree/main/watchlists">Browse manually</a></p>`;
             }
         }
         
