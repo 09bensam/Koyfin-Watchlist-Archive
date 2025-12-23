@@ -1,2 +1,2 @@
-Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Notes
-2025-12-23 13:50:14,MRVL,Current_R1,87.12,87.60,,
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2025-12-23 13:50:14,MRVL,Current_R1,87.12,87.60,REJECTED,Dollar volume unavailable (mid-day restart),
