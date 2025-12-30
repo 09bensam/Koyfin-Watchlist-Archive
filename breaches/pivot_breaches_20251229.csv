@@ -1,0 +1,3 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2025-12-29 09:32:29,NBIS,Current_Pivot,85.08,85.32,INVALIDATED,No qualifying volume day found,
+2025-12-29 10:17:29,BE,Current_Pivot,87.17,87.26,INVALIDATED,No qualifying volume day found,
