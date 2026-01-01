@@ -1,0 +1,86 @@
+Ticker,Name,Last Price,Market Cap,Volatility (1M),Volume Notional
+EQT,EQT Corporation,53.6000,N/A for download,30.01,290051147.20
+XYZ,Block Inc.,65.0900,N/A for download,30.01,227003848.42
+DHI,D.R. Horton Inc.,144.0300,N/A for download,30.26,202097998.98
+STZ,Constellation Brands Inc.,137.9600,N/A for download,30.50,227264957.00
+ATI,ATI Inc.,114.7600,N/A for download,30.58,111231703.80
+OMC,Omnicom Group Inc.,80.7500,N/A for download,30.59,234391329.25
+COP,ConocoPhillips,93.6100,N/A for download,30.97,332491018.75
+CHWY,Chewy Inc.,33.0500,N/A for download,31.58,202049919.10
+CRH,CRH plc,124.8000,N/A for download,31.72,333859344.00
+DVN,Devon Energy Corporation,36.6300,N/A for download,31.80,143501981.04
+SW,Smurfit Westrock Plc,38.6700,N/A for download,31.84,134741283.96
+BROS,Dutch Bros Inc.,61.2200,N/A for download,31.93,162491470.84
+GH,Guardant Health Inc.,102.1400,N/A for download,31.99,104828324.80
+UAL,United Airlines Holdings Inc.,111.8200,N/A for download,32.06,237598937.88
+ARM,Arm Holdings plc,109.3100,N/A for download,32.16,377728793.94
+UBER,Uber Technologies Inc.,81.7100,N/A for download,32.95,688688567.79
+INCY,Incyte Corporation,98.7700,N/A for download,33.15,135970535.26
+APH,Amphenol Corporation,135.1400,N/A for download,33.19,446396475.10
+EXE,Expand Energy Corporation,110.3600,N/A for download,33.24,186443508.32
+RBLX,Roblox Corporation,81.0300,N/A for download,33.26,430360944.93
+EL,The Estée Lauder Companies Inc.,104.7200,N/A for download,33.37,185385292.40
+SE,Sea Limited,127.5700,N/A for download,33.67,251859154.74
+TEM,Tempus AI Inc.,59.0500,N/A for download,33.95,211720232.00
+EAT,Brinker International Inc.,143.5200,N/A for download,34.01,139815892.32
+ENPH,Enphase Energy Inc.,32.0500,N/A for download,34.82,100669915.35
+CAVA,CAVA Group Inc.,58.6900,N/A for download,35.04,168869323.90
+ANET,Arista Networks Inc.,131.0300,N/A for download,35.60,500746999.63
+XPO,XPO Inc.,135.9100,N/A for download,35.84,102904120.59
+LYB,LyondellBasell Industries N.V.,43.3000,N/A for download,36.60,126271373.40
+AR,Antero Resources Corporation,34.4600,N/A for download,36.75,141108427.62
+GLW,Corning Incorporated,87.5600,N/A for download,37.09,291922500.76
+ROKU,Roku Inc.,108.4900,N/A for download,37.36,184490499.70
+DLTR,Dollar Tree Inc.,123.0100,N/A for download,38.45,195653555.50
+SHAK,Shake Shack Inc.,81.1700,N/A for download,38.52,129574836.63
+DELL,Dell Technologies Inc.,125.8800,N/A for download,39.29,368289004.20
+SMCI,Super Micro Computer Inc.,29.2700,N/A for download,39.39,727212886.57
+DOCU,DocuSign Inc.,68.4000,N/A for download,39.53,105859260.00
+NEM,Newmont Corporation,99.8500,N/A for download,39.54,540699432.45
+CELH,Celsius Holdings Inc.,45.7400,N/A for download,40.02,132573273.40
+ALB,Albemarle Corporation,141.4400,N/A for download,40.12,246399653.76
+FROG,JFrog Ltd.,62.4600,N/A for download,40.25,128100962.88
+BIDU,Baidu Inc.,130.6600,N/A for download,40.91,308745268.22
+NVT,nVent Electric plc,101.9700,N/A for download,41.96,117628003.35
+ANF,Abercrombie & Fitch Co.,125.8700,N/A for download,42.03,125227559.52
+AA,Alcoa Corporation,53.1400,N/A for download,42.94,301778712.18
+NOW,ServiceNow Inc.,153.1900,N/A for download,43.11,805180273.91
+U,Unity Software Inc.,44.1700,N/A for download,43.21,230974117.36
+ENTG,Entegris Inc.,84.2500,N/A for download,43.66,118931007.00
+CYTK,Cytokinetics Incorporated,63.5400,N/A for download,43.85,125865115.20
+HIMS,Hims & Hers Health Inc.,32.4700,N/A for download,43.91,458408213.00
+ELF,e.l.f. Beauty Inc.,76.0400,N/A for download,44.48,102621378.84
+MTN,Vail Resorts Inc.,132.8000,N/A for download,44.58,102058792.00
+COGT,Cogent Biosciences Inc.,35.5200,N/A for download,44.65,124330442.88
+TSEM,Tower Semiconductor Ltd.,117.4200,N/A for download,44.86,228713141.82
+CCL,Carnival Corporation & plc,30.5400,N/A for download,45.06,253172263.32
+FIG,Figma Inc.,37.3700,N/A for download,45.48,187622400.53
+PRIM,Primoris Services Corporation,124.1400,N/A for download,45.68,143432721.54
+FLEX,Flex Ltd.,60.4200,N/A for download,46.11,121958253.36
+ON,ON Semiconductor Corporation,54.1500,N/A for download,46.59,205455767.55
+MDLN,Medline Inc.,42.0000,N/A for download,47.70,244216476.00
+MP,MP Materials Corp.,50.5200,N/A for download,47.90,349184792.76
+W,Wayfair Inc.,100.4100,N/A for download,48.64,109583256.78
+UPST,Upstart Holdings Inc.,43.7300,N/A for download,50.32,168911191.89
+MCHP,Microchip Technology Incorporated,63.7200,N/A for download,52.16,290789151.12
+MRVL,Marvell Technology Inc.,84.9800,N/A for download,52.20,614752118.40
+KTOS,Kratos Defense & Security Solutions Inc.,75.9100,N/A for download,54.29,176977409.01
+IOT,Samsara Inc.,35.4500,N/A for download,54.63,101308620.05
+AFRM,Affirm Holdings Inc.,74.4300,N/A for download,55.95,188123015.88
+MRNA,Moderna Inc.,29.4900,N/A for download,59.02,263914385.16
+DG,Dollar General Corporation,132.7700,N/A for download,59.70,311354943.90
+SATS,EchoStar Corporation,108.7000,N/A for download,60.67,252705651.30
+CRDO,Credo Technology Group Holding Ltd,143.8900,N/A for download,66.51,362832016.77
+CRCL,Circle Internet Group Inc.,79.3000,N/A for download,77.33,456295689.20
+NBIS,Nebius Group N.V.,83.7050,N/A for download,77.76,590611765.76
+RBRK,Rubrik Inc.,76.4800,N/A for download,88.79,126228328.00
+LW,Lamb Weston Holdings Inc.,41.8900,N/A for download,88.98,112719874.06
+IONQ,IonQ Inc.,44.8700,N/A for download,89.75,513177831.04
+OKLO,Oklo Inc.,71.7600,N/A for download,98.02,498488518.32
+CFLT,Confluent Inc.,30.2400,N/A for download,99.39,141411432.96
+IREN,IREN Limited,37.7700,N/A for download,101.81,792506418.87
+PSTG,Pure Storage Inc.,67.0100,N/A for download,105.98,131232048.95
+BE,Bloom Energy Corporation,86.8900,N/A for download,106.00,474825089.41
+HUT,Hut 8 Corp.,45.9400,N/A for download,121.78,125935184.18
+ASTS,AST SpaceMobile Inc.,72.6300,N/A for download,132.79,758113610.49
+CORT,Corcept Therapeutics Incorporated,34.8000,N/A for download,178.15,706613826.00
