@@ -1,0 +1,3 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-02 09:32:21,MRVL,Current_R1,87.12,87.89,INVALIDATED,No qualifying volume day found,
+2026-01-02 09:42:17,UBER,Current_R1,82.52,82.65,INVALIDATED,No qualifying volume day found,
