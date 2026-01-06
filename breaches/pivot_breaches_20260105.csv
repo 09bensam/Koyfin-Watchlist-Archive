@@ -1,0 +1,4 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-05 09:32:33,ANET,Current_R3,138.89,141.40,INVALIDATED,No qualifying volume day found,
+2026-01-05 09:32:33,ANET,Current_R4,141.20,141.40,INVALIDATED,No qualifying volume day found,
+2026-01-05 12:58:52,OKLO,Current_R1,83.11,87.61,INVALIDATED,No qualifying volume day found,
