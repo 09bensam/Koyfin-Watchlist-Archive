@@ -1,0 +1,5 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-06 10:09:11,NBIS,Current_R3,96.55,96.65,INVALIDATED,No qualifying volume day found,
+2026-01-06 10:16:56,NBIS,Current_R4,98.41,98.48,INVALIDATED,No qualifying volume day found,
+2026-01-06 11:35:47,ARWR,Current_R3,72.27,74.04,,,
+2026-01-06 11:35:47,ARWR,Current_R4,73.50,74.04,,,
