@@ -1,0 +1,5 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-07 09:51:11,NOW,Current_Pivot,148.76,150.08,INVALIDATED,No qualifying volume day found,
+2026-01-07 11:17:57,BIDU,Current_Pivot,148.29,148.40,INVALIDATED,No qualifying volume day found,
+2026-01-07 12:00:29,NOW,Current_R1,151.89,151.99,INVALIDATED,No qualifying volume day found,
+2026-01-07 12:48:25,MP,Current_R3,60.85,61.72,INVALIDATED,No qualifying volume day found,
