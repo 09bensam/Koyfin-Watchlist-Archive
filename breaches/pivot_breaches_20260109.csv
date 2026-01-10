@@ -1,0 +1,4 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-09 09:32:32,DHI,Current_R4,150.90,151.67,INVALIDATED,No qualifying volume day found,
+2026-01-09 09:32:37,ROKU,Current_R3,113.49,113.95,INVALIDATED,No qualifying volume day found,
+2026-01-09 12:01:25,NEM,Current_R4,107.94,107.96,INVALIDATED,No qualifying volume day found,
