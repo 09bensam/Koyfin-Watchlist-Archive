@@ -1,0 +1,3 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-16 09:32:29,BKR,Current_R2,52.10,52.32,INVALIDATED,No qualifying volume day found,
+2026-01-16 09:33:00,COP,Current_Pivot,98.13,98.55,INVALIDATED,No qualifying volume day found,
