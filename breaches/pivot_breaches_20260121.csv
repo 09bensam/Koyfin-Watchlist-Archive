@@ -1,0 +1,2 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-21 09:34:06,DDOG,Current_Pivot,122.02,122.37,INVALIDATED,No qualifying volume day found,
