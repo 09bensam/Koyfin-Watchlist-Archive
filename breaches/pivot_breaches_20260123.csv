@@ -1,0 +1,4 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes
+2026-01-23 09:32:45,HAL,Current_R2,34.86,35.09,INVALIDATED,No qualifying volume day found,
+2026-01-23 09:32:45,SE,Current_Pivot,125.54,125.92,INVALIDATED,No qualifying volume day found,
+2026-01-23 13:09:11,AA,Current_Pivot,62.32,62.34,INVALIDATED,No qualifying volume day found,
