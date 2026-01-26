@@ -1,0 +1,8 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Outcome,Rejection_Reason,Notes,Source_Date
+2026-01-20 09:32:23,SLB,Current_R1,46.23,46.86,INVALIDATED,No qualifying volume day found,,2026-01-20
+2026-01-21 09:34:06,DDOG,Current_Pivot,122.02,122.37,INVALIDATED,No qualifying volume day found,,2026-01-21
+2026-01-22 09:32:36,ANET,Current_R2,141.06,142.32,INVALIDATED,No qualifying volume day found,,2026-01-22
+2026-01-23 09:32:45,HAL,Current_R2,34.86,35.09,INVALIDATED,No qualifying volume day found,,2026-01-23
+2026-01-23 09:32:45,SE,Current_Pivot,125.54,125.92,INVALIDATED,No qualifying volume day found,,2026-01-23
+2026-01-23 13:09:11,AA,Current_Pivot,62.32,62.34,INVALIDATED,No qualifying volume day found,,2026-01-23
+2026-01-26 09:32:46,IONQ,Current_Pivot,49.06,49.45,INVALIDATED,No qualifying volume day found,,2026-01-26
