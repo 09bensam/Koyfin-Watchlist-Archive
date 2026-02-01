@@ -1,0 +1,12 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes,Source_Date
+2026-01-26 09:32:46,IONQ,Current_Pivot,49.06,49.45,,,INVALIDATED,No qualifying volume day found,,2026-01-26
+2026-01-27 09:33:00,MRNA,Current_Pivot,48.20,49.40,48.09,2.890,REJECTED,Pivot too close to opening,,2026-01-27
+2026-01-27 09:33:00,MRNA,Previous_R2,48.88,49.40,48.09,2.890,REJECTED,Range multiplier too low (5.91%),,2026-01-27
+2026-01-27 10:01:57,GM,Current_R2,84.70,84.73,83.63,,INVALIDATED,No qualifying volume day found,,2026-01-27
+2026-01-27 10:13:18,GM,Previous_R2,85.27,85.28,83.63,,INVALIDATED,No qualifying volume day found,,2026-01-27
+2026-01-27 10:36:20,GM,Previous_R3,86.67,86.70,83.63,,INVALIDATED,No qualifying volume day found,,2026-01-27
+2026-01-27 10:54:11,GM,Current_R3,87.12,87.17,83.63,,INVALIDATED,No qualifying volume day found,,2026-01-27
+2026-01-28 09:32:26,ON,Current_R1,65.45,65.64,64.78,3.100,REJECTED,Pivot too close to opening,,2026-01-28
+2026-01-28 09:32:41,CRCL,Current_Pivot,72.89,72.93,72.75,2.670,REJECTED,Pivot too close to opening,,2026-01-28
+2026-01-28 09:33:46,BMNR,Current_R1,30.12,30.20,29.96,3.120,REJECTED,Pivot too close to opening,,2026-01-28
+2026-01-30 09:33:23,GILD,Current_R1,140.73,140.80,139.08,2.280,REJECTED,Range multiplier too low (1.62%),,2026-01-30
