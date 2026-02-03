@@ -1,0 +1,5 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-02 09:32:30,DVN,Current_Pivot,39.88,40.21,39.40,1.480,REJECTED,Range multiplier too low (3.71%),
+2026-02-02 09:32:30,DVN,Previous_R1,39.84,40.21,39.40,1.480,REJECTED,Range multiplier too low (3.71%),
+2026-02-02 11:11:14,OXY,Previous_R1,44.46,44.47,43.86,1.165,REJECTED,Range multiplier too low (2.62%),
+2026-02-02 12:11:34,PDD,Current_Pivot,103.36,103.40,101.92,1.730,REJECTED,Range multiplier too low (1.67%),
