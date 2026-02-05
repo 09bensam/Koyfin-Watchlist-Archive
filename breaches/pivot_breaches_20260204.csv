@@ -1,0 +1,3 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-04 09:33:06,ENPH,Current_R4,48.86,49.62,48.00,,INVALIDATED,No qualifying volume day found,
+2026-02-04 12:00:27,DVN,Current_R2,43.08,43.08,41.93,2.037,REJECTED,Range multiplier too low (4.73%),
