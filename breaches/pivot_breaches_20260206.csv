@@ -1,0 +1,3 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-06 09:32:22,DAL,Current_R3,71.80,71.89,70.48,3.270,REJECTED,Range multiplier too low (4.55%),
+2026-02-06 13:34:31,DAL,Current_R4,73.88,75.14,70.48,1.790,REJECTED,Range multiplier too low (2.42%),
