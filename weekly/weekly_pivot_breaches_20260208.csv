@@ -1,0 +1,10 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes,Source_Date
+2026-02-02 09:32:30,DVN,Current_Pivot,39.88,40.21,39.40,1.480,REJECTED,Range multiplier too low (3.71%),,2026-02-02
+2026-02-02 09:32:30,DVN,Previous_R1,39.84,40.21,39.40,1.480,REJECTED,Range multiplier too low (3.71%),,2026-02-02
+2026-02-02 11:11:14,OXY,Previous_R1,44.46,44.47,43.86,1.165,REJECTED,Range multiplier too low (2.62%),,2026-02-02
+2026-02-02 12:11:34,PDD,Current_Pivot,103.36,103.40,101.92,1.730,REJECTED,Range multiplier too low (1.67%),,2026-02-02
+2026-02-03 10:22:40,MP,Current_Pivot,63.07,63.20,61.79,4.110,REJECTED,Range multiplier too low (6.52%),,2026-02-03
+2026-02-04 09:33:06,ENPH,Current_R4,48.86,49.62,48.00,,INVALIDATED,No qualifying volume day found,,2026-02-04
+2026-02-04 12:00:27,DVN,Current_R2,43.08,43.08,41.93,2.037,REJECTED,Range multiplier too low (4.73%),,2026-02-04
+2026-02-06 09:32:22,DAL,Current_R3,71.80,71.89,70.48,3.270,REJECTED,Range multiplier too low (4.55%),,2026-02-06
+2026-02-06 13:34:31,DAL,Current_R4,73.88,75.14,70.48,1.790,REJECTED,Range multiplier too low (2.42%),,2026-02-06
