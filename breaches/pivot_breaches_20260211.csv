@@ -1,0 +1,2 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-11 09:49:46,NBIS,Current_R1,93.82,93.85,92.92,3.892,REJECTED,Pivot too close to opening,
