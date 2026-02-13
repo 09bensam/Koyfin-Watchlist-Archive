@@ -1,0 +1,2 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-12 09:32:46,AKAM,Current_R2,101.76,102.37,98.75,6.315,REJECTED,Range multiplier too low (6.21%),
