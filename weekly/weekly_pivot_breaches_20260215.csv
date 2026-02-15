@@ -1,0 +1,7 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes,Source_Date
+2026-02-10 09:33:09,FISV,Current_Pivot,60.51,60.93,59.64,,INVALIDATED,No qualifying volume day found,,2026-02-10
+2026-02-10 09:33:40,ON,Previous_R1,64.81,65.89,64.64,,INVALIDATED,No qualifying volume day found,,2026-02-10
+2026-02-10 09:34:46,TRU,Current_Pivot,72.87,73.00,72.31,,INVALIDATED,No qualifying volume day found,,2026-02-10
+2026-02-10 11:29:26,ON,Current_R1,67.90,67.92,64.64,1.300,REJECTED,Range multiplier too low (1.91%),,2026-02-10
+2026-02-11 09:49:46,NBIS,Current_R1,93.82,93.85,92.92,3.892,REJECTED,Pivot too close to opening,,2026-02-11
+2026-02-12 09:32:46,AKAM,Current_R2,101.76,102.37,98.75,6.315,REJECTED,Range multiplier too low (6.21%),,2026-02-12
