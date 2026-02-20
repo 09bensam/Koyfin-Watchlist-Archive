@@ -1,0 +1,2 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-19 09:54:00,SMCI,Current_Pivot,31.73,31.83,31.25,4.390,REJECTED,Pivot too close to opening,
