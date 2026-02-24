@@ -1,0 +1,3 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-23 09:53:13,MRVL,Current_Pivot,78.84,78.85,78.39,2.225,REJECTED,Pivot too close to opening,
+2026-02-23 11:10:11,ASTS,Current_Pivot,82.08,82.13,78.53,7.580,EXECUTED,,
