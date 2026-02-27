@@ -1,0 +1,6 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-26 09:40:25,IONQ,Current_R4,39.73,40.19,39.05,,INVALIDATED,No qualifying volume day found,
+2026-02-26 11:57:40,ABNB,Current_R3,135.82,136.55,132.19,6.490,REJECTED,Range multiplier too low (4.78%),
+2026-02-26 11:57:40,ASTS,Current_Pivot,82.08,85.01,81.88,6.265,REJECTED,Pivot too close to opening,
+2026-02-26 11:57:52,RBLX,Current_R2,68.18,70.61,68.14,2.140,REJECTED,Pivot too close to opening,
+2026-02-26 11:57:52,RBLX,Current_R3,70.56,70.61,68.14,2.140,REJECTED,Range multiplier too low (3.03%),
