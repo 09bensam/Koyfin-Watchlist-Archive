@@ -1,0 +1,4 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-02-27 09:33:01,FIG,Current_R1,29.02,29.23,28.59,2.783,REJECTED,Pivot too close to opening,
+2026-02-27 09:39:45,AAOI,Current_R4,75.39,76.27,65.93,,INVALIDATED,No qualifying volume day found,
+2026-02-27 09:41:21,AAOI,Current_R3,70.13,75.70,65.93,,INVALIDATED,No qualifying volume day found,
