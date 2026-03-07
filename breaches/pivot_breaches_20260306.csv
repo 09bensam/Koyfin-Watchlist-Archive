@@ -1,0 +1,2 @@
+Timestamp,Symbol,Pivot_Name,Pivot_Price,Current_Price,Opening_Price,ATR,Outcome,Rejection_Reason,Notes
+2026-03-06 09:34:23,OXY,Current_R1,54.34,54.91,54.20,3.260,REJECTED,Pivot too close to opening,
